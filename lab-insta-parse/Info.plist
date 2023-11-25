@@ -6,6 +6,8 @@
 	<array>
 		<string>Filmotype-Jade.otf</string>
 	</array>
+	<key>NSCameraUsageDescription</key>
+	<string>Allow uploading images to app?</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
